@@ -1,0 +1,1 @@
+This is website created by myself as codecademy free form project. I cloned by own idea example website.
