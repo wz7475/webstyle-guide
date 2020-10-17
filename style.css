@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #404040;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* 
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+ */
+
+nav h1{
+    font-size: 40px;
+    margin: 15px;
+}
+
+section{
+    border: 2px solid rgba(255, 255, 255, 0.76);
+    margin: 15px;
+    padding: 5px 10px 20px 10px;
+}
