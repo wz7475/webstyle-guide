@@ -26,13 +26,15 @@ section{
     padding: 10px 15px;
 }
 
+/* colors */
+
 .color_box{
-    margin: 20px auto;
+    margin: 20px 5px;
     display: inline-block;
-    padding: 30px;
+    padding: 20px;
     text-align: center;
-    width: 49%;
-    min-height: 150px;
+    width: 47%;
+    min-height: 100px;
 }
 
 .blue{
@@ -50,4 +52,34 @@ section{
 .beige{
     background-color: #efd9ca;
     color: #000;
+}
+
+/* fonts */
+
+.source_code{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.nunito{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.poppins{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bold{
+    font-weight: 700;
+}
+
+.italics{
+    font-style: italic;
+}
+
+.font-header{
+    text-decoration: underline;
+}
+
+.regular, .italics, .bold{
+    margin: 10px 0;
 }
