@@ -88,3 +88,24 @@ section{
     display: inline-block;
     width: 49%;
 }
+
+/* text styles */
+
+#main{
+    Font-weight: 700 (bold);
+    Font-size: 26px;
+    Font-family: Nunito Sans;
+}
+
+#subheading{
+    Font-weight: 500;
+    Font-size: 18px;
+    Font-family: Poppins;
+}
+
+#paragraph
+{
+    Font-weight: 400 (regular);
+    Font-size: 14px;
+    Font-family: Poppins;
+}
